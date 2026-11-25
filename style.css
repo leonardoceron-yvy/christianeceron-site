@@ -212,3 +212,4 @@ a:focus-visible,summary:focus-visible,.btn:focus-visible{outline:2px solid var(-
 .a-hero .eyebrow{color:var(--gold-l)}
 .about .eyebrow{color:#76572A}
 .about-h{max-width:780px}
+.about-lead{font:400 clamp(1.15rem,1.6vw,1.35rem)/1.45 var(--serif);color:var(--soft);margin:18px 0 0;max-width:36em}
